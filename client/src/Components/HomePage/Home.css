@@ -1,0 +1,16 @@
+.Home{
+    background-color: rgb(241, 79, 79);
+}
+
+.caption{
+    width: 100%;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.c-blog{
+    border: none;
+    background-color: rgb(236, 205, 83);
+    color: antiquewhite;
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.post-card{
+    margin: 10px;
+    width: 100%;
+    border: 2px solid black;
+    color: red;
+    text-align: center;
+}
+
+.post-card1{
+    margin: 10px;
+    width: 70%;
+    float: right;
+    border: 2px solid black;
+    color: red;
+    text-align: center;
+}

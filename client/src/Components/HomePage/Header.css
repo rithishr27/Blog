@@ -1,0 +1,28 @@
+.Header{
+    width: 100%;
+    border: 2px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .Header div{
+    color: white;
+} */
+
+img{
+    width: 15px;
+    height: 12px;
+}
+
+.signin-btn{
+    border: none;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    padding-right: 15px;
+}

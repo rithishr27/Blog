@@ -1,0 +1,8 @@
+.menu{
+    position: fixed;
+    top: 79.44;
+    left: 0;
+    width: 350px;
+    height: 100vh;
+    border: 2px solid black;
+}
